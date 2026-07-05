@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/aws-sdk/s3-request-presigner-3.1063.0",
+    "dependabot/npm_and_yarn/multi-cbfe5253e3",
+    "dependabot/npm_and_yarn/nestjs/testing-11.1.25",
+    "dependabot/npm_and_yarn/types/node-25.9.2",
+    "dependabot/npm_and_yarn/typescript-6.0.3",
+    "main",
+    "origin",
+    "test/cleanup-scheduler-unit-tests"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/aws-sdk/s3-request-presigner-3.1063.0": "main",
+    "dependabot/npm_and_yarn/multi-cbfe5253e3": "main",
+    "dependabot/npm_and_yarn/nestjs/testing-11.1.25": "main",
+    "dependabot/npm_and_yarn/types/node-25.9.2": "main",
+    "dependabot/npm_and_yarn/typescript-6.0.3": "main",
+    "main": null,
+    "origin": "main",
+    "test/cleanup-scheduler-unit-tests": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/aws-sdk/s3-request-presigner-3.1063.0",
+    "dependabot/npm_and_yarn/multi-cbfe5253e3",
+    "dependabot/npm_and_yarn/nestjs/testing-11.1.25",
+    "dependabot/npm_and_yarn/types/node-25.9.2",
+    "dependabot/npm_and_yarn/typescript-6.0.3",
+    "origin",
+    "test/cleanup-scheduler-unit-tests"
+  ]
+}
